@@ -1,5 +1,4 @@
-# SOBRE MIM
-
+#sobre mim
 - 👋 Hi, I’m @joaoantoniopereiraneto
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
